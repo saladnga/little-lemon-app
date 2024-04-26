@@ -1,15 +1,13 @@
-import "./App.css";
-import Header from "./comp/Header";
 import Nav from "./comp/Nav";
 import Main from "./comp/Main";
+import "./App.css";
+import React from "react";
 import Footer from "./comp/Footer";
-import image from "./assets/littlelemonicon.png";
+import Menu from "./comp/Menu";
 
 function App() {
   return (
     <>
-      <img src={image} alt="icon"></img>
-      <Header />
       <Nav />
       <Main />
       <Footer />
