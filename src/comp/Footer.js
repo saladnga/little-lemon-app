@@ -39,7 +39,7 @@ const Footer = () => {
           <h3>Contact</h3>
           <ul>
             <li>• Address: 123 Towncity, USA</li>
-            <li>• Phone: ++ 0123 456 789</li>
+            <li>• Phone: ++0123 456 789</li>
             <li>• Email: little@lemon.com</li>
           </ul>
         </div>

@@ -79,6 +79,7 @@ const BookingForm = (props) => {
                 max="20"
                 placeholder="E.g: 5"
                 value={guest}
+                required
                 onChange={(e) => {
                   setGuest(e.target.value);
                 }}
